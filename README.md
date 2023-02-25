@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png"></code>
 <code><img height="20" src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg"></code>
 <code><img height="20" src="https://icon-library.com/images/2018/2052015_flask-flask-web-framework-transparent-png.png"></code>
-<code><img height="20" src="[https://icon-library.com/images/2018/2052015_flask-flask-web-framework-transparent-png.png](https://icon-library.com/images/django-icon/django-icon-12.jpg)"></code>
-<code><img height="20" src="[https://icon-library.com/images/2018/2052015_flask-flask-web-framework-transparent-png.png](https://icon-library.com/images/a2757b299d_45223.png)"></code>
-<code><img height="20" src="[https://icon-library.com/images/2018/2052015_flask-flask-web-framework-transparent-png.png](https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg)"></code>
+<code><img height="20" src="https://icon-library.com/images/django-icon/django-icon-12.jpg"></code>
+<code><img height="20" src="https://icon-library.com/images/a2757b299d_45223.png"></code>
+<code><img height="20" src="https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg"></code>
 
 <br></br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sunil1208&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
